@@ -4,7 +4,7 @@ AI is changing the structure of our societies at an exponential rate. We at the 
 
 Our goal is to expose students with a curiousity in AI, regardless of experience with code and math, to topics like news, research, cultural impact, ethics, and much more. AI is an all-encompassing field, and we believe you do not need to understand its underlying mathematical concepts just to be aware of the implications. As part of this goal, we aim to foster an integrated community across deparments that bring diverse perspectives. 
 
-Our second goal is to assemble a community of programmers through our coding workshops centered on AI related concepts. Bi-weekly hour-long workshops are held that introduce essentials tools for coding AI. This GitHub group is the repository for those workshops, and will act as the repository for future club projects. 
+Our second goal is to assemble a community of programmers through our coding workshops centered on AI related concepts. Bi-weekly hour-long workshops are held that introduce essential tools for coding AI. This GitHub group is the repository for those workshops, and will act as the repository for future club projects. 
 
 If you'd like to learn more, you can reach us at 
 
