@@ -7,8 +7,11 @@ Our goal is to expose students with a curiousity in AI, regardless of experience
 Our second goal is to assemble a community of programmers through our coding workshops centered on AI related concepts. Bi-weekly hour-long workshops are held that introduce essentials tools for coding AI. This GitHub group is the repository for those workshops, and will act as the repository for future club projects. 
 
 If you'd like to learn more, you can reach us at 
+
 Email: aiclub@uoguelph.ca
+
 Instagram: uoguelphai
+
 Discord: https://discord.gg/mCDc3JH2nn
 <!--
 
