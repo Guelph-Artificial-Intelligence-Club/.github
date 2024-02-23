@@ -1,6 +1,6 @@
 ## Welcome to the University of Guelph AI Club Github!
 
-AI is changing the structure of our societies at an exponential rate. We at the University of Guelph's AI club acknowledge this change and echo the calls for the open and ethical development of AI. 
+AI is changing the structure of our societies at an exponential rate. We at the University of Guelph's AI club acknowledge this change and echo the calls for the open and ethical development of AI [1][2]. 
 
 Our goal is to expose students with a curiousity in AI, regardless of experience with code and math, to topics like news, research, cultural impact, ethics, and much more. AI is an all-encompassing field, and we believe you do not need to understand its underlying mathematical concepts just to be aware of the implications. As part of this goal, we aim to foster an integrated community across deparments that bring diverse perspectives. 
 
@@ -13,6 +13,11 @@ If you'd like to learn more, you can reach us at
 📷 Instagram:   uoguelphai
 
 📲 Discord:     https://discord.gg/mCDc3JH2nn
+
+
+---------------------------------
+[1] “About - allen institute for AI,” About - Allen Institute for AI, https://allenai.org/about (accessed Feb. 23, 2024). 
+[2] “About us: Cais,” About Us | CAIS, https://www.safe.ai/about (accessed Feb. 23, 2024). 
 <!--
 
 **Here are some ideas to get you started:**
