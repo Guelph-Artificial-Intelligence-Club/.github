@@ -8,15 +8,13 @@ Our second goal is to assemble a community of programmers through our coding wor
 
 If you'd like to learn more, you can reach us at 
 
-📧 Email:       aiclub@uoguelph.ca
-
-📷 Instagram:   uoguelphai
-
-📲 Discord:     https://discord.gg/mCDc3JH2nn
+📧 Email:       aiclub@uoguelph.ca\
+📷 Instagram:   uoguelphai\
+📲 Discord:     https://discord.gg/mCDc3JH2nn\
 
 
 ---------------------------------
-[1] “About - allen institute for AI,” About - Allen Institute for AI, https://allenai.org/about (accessed Feb. 23, 2024). 
+[1] “About - allen institute for AI,” About - Allen Institute for AI, https://allenai.org/about (accessed Feb. 23, 2024).\
 [2] “About us: Cais,” About Us | CAIS, https://www.safe.ai/about (accessed Feb. 23, 2024). 
 <!--
 
