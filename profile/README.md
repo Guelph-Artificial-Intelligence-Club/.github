@@ -8,11 +8,11 @@ Our second goal is to assemble a community of programmers through our coding wor
 
 If you'd like to learn more, you can reach us at 
 
-Email: aiclub@uoguelph.ca
+📧 Email:       aiclub@uoguelph.ca
 
-Instagram: uoguelphai
+📷 Instagram:   uoguelphai
 
-Discord: https://discord.gg/mCDc3JH2nn
+📲 Discord:     https://discord.gg/mCDc3JH2nn
 <!--
 
 **Here are some ideas to get you started:**
